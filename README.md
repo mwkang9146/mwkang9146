@@ -22,16 +22,20 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
 
-<p align="left">
-  🇺🇸 English · [🇰🇷 한국어](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ko.md) · [🇨🇳 中文](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/zh-CN.md) · [🇪🇸 Español](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/es.md) · [🇮🇳 हिन्दी](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/hi.md) · [🇸🇦 العربية](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ar.md) · [🇧🇷 Português](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/pt-BR.md) · [🇷🇺 Русский](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ru.md) · [🇫🇷 Français](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/fr.md) · [🇯🇵 日本語](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ja.md) · [🇩🇪 Deutsch](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/de.md) · [🇮🇩 Bahasa Indonesia](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/id.md)
-</p>
-
 ---
 
 ### 🌐 Ecosystem & Profiles
 - **GitHub**: [@mwkang9146](https://github.com/mwkang9146) — Open-source code, personal research, and systems projects.
 - **GitLab**: [@mwkang9146](https://gitlab.com/mwkang9146) — Enterprise pipelines, CI/CD explorations, and private mirrors.
 - **Hugging Face**: [@mwkang9146](https://huggingface.co/mwkang9146) — Neural inference runtimes, model evaluations, and datasets.
+
+---
+
+### 🌐 Language Navigation (10 Languages Supported)
+
+| [🇰🇷 한국어](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ko.md) | [🇺🇸 English](https://github.com/mwkang9146/mwkang9146) | [🇯🇵 日本語](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ja.md) | [🇨🇳 简体中文](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/zh-CN.md) | [🇪🇸 Español](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/es.md) |
+| :---: | :---: | :---: | :---: | :---: |
+| [🇫🇷 Français](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/fr.md) | [🇩🇪 Deutsch](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/de.md) | [🇷🇺 Русский](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ru.md) | [🇧🇷 Português](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/pt-BR.md) | [🇸🇦 العربية](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ar.md) |
 
 ---
 
