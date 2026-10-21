@@ -1,8 +1,10 @@
 # Minwoo Kang
 
-<p align="left">
-  [🇺🇸 English](../../README.md) · [🇰🇷 한국어](ko.md) · [🇨🇳 中文](zh-CN.md) · 🇪🇸 Español · [🇮🇳 हिन्दी](hi.md) · [🇸🇦 العربية](ar.md) · [🇧🇷 Português](pt-BR.md) · [🇷🇺 Русский](ru.md) · [🇫🇷 Français](fr.md) · [🇯🇵 日本語](ja.md) · [🇩🇪 Deutsch](de.md) · [🇮🇩 Bahasa Indonesia](id.md)
-</p>
+### 🌐 Language Navigation (10 Languages Supported)
+
+| [🇰🇷 한국어](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ko.md) | [🇺🇸 English](https://github.com/mwkang9146/mwkang9146) | [🇯🇵 日本語](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ja.md) | [🇨🇳 简体中文](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/zh-CN.md) | [🇪🇸 Español](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/es.md) |
+| :---: | :---: | :---: | :---: | :---: |
+| [🇫🇷 Français](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/fr.md) | [🇩🇪 Deutsch](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/de.md) | [🇷🇺 Русский](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ru.md) | [🇧🇷 Português](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/pt-BR.md) | [🇸🇦 العربية](https://github.com/mwkang9146/mwkang9146/blob/main/docs/locales/ar.md) |
 
 ---
 
