@@ -24,6 +24,13 @@
 
 ---
 
+### 🌐 Ecosystem & Profiles
+- **GitHub**: [@mwkang9146](https://github.com/mwkang9146) — Open-source code, personal research, and systems projects.
+- **GitLab**: [@mwkang9146](https://gitlab.com/mwkang9146) — Enterprise pipelines, CI/CD explorations, and private mirrors.
+- **Hugging Face**: [@mwkang9146](https://huggingface.co/mwkang9146) — Neural inference runtimes, model evaluations, and datasets.
+
+---
+
 ### About Me
 
 안녕하세요! 신뢰성과 성능을 타협하지 않는 소프트웨어 엔지니어 **강민우(Minwoo Kang)**입니다.
