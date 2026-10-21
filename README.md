@@ -52,6 +52,10 @@
 
 ---
 
+<details id="translations">
+<summary>🌐 <b>Read in other languages / 다국어 소개 (English, 日本語, 简体中文, Español, Français, Deutsch, Русский, Português, العربية)</b></summary>
+<br>
+
 <details id="english">
 <summary><b>🇺🇸 English</b></summary>
 <br>
@@ -185,6 +189,8 @@ Olá! Sou **Minwoo Kang**, engenheiro de software dedicado ao desenvolvimento de
 - **فلسفة العمل الهندسي**:
   - البساطة هي الشرط الأساسي للموثوقية؛ الهياكل الصلبة والواضحة تتفوق دائمًا على التعقيد الزائد.
   - تستند جميع القرارات الهندسية إلى القياس التجريبي والاختبار الآلي الدقيق.
+</details>
+
 </details>
 
 ---
