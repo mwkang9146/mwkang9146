@@ -24,16 +24,7 @@
 
 ---
 
-### 🌐 Language Navigation (10 Languages Supported)
-| [🇰🇷 한국어](#-한국어-korean) | [🇺🇸 English](#-english) | [🇯🇵 日本語](#-日本語-japanese) | [🇨🇳 简体中文](#-简体中文-simplified-chinese) | [🇪🇸 Español](#-español-spanish) |
-| :---: | :---: | :---: | :---: | :---: |
-| [🇫🇷 Français](#-français-french) | [🇩🇪 Deutsch](#-deutsch-german) | [🇷🇺 Русский](#-русский-russian) | [🇧🇷 Português](#-português-portuguese) | [🇸🇦 العربية](#-العربية-arabic) |
-
----
-
-<details open>
-<summary><b>🇰🇷 한국어 (Korean)</b></summary>
-<br>
+### About Me
 
 안녕하세요! 신뢰성과 성능을 타협하지 않는 소프트웨어 엔지니어 **강민우(Minwoo Kang)**입니다.
 
@@ -44,12 +35,14 @@
 - **엔지니어링 철학**:
   - 간결함이 곧 신뢰성입니다. 불필요한 추상화보다 직관적이고 견고한 아키텍처를 추구합니다.
   - 기계적으로 검증 가능한 테스트와 정밀한 계측(Profiling)을 통해 문제를 근본적으로 규명합니다.
-</details>
 
-<details open>
-<summary><b>🇺🇸 English</b></summary>
+---
+
+<details>
+<summary>🌐 <b>Read in other languages (English, 日本語, 简体中文, Español, Français, Deutsch, Русский, Português, العربية)</b></summary>
 <br>
 
+#### 🇺🇸 English
 Hello! I am **Minwoo Kang**, a software engineer dedicated to building uncompromisingly reliable and performant systems.
 
 - **Core Focus & Technical Competencies**:
@@ -59,12 +52,10 @@ Hello! I am **Minwoo Kang**, a software engineer dedicated to building uncomprom
 - **Engineering Ethos**:
   - Simplicity is the prerequisite for reliability. Pragmatic architecture always triumphs over unnecessary abstraction.
   - Every technical decision is grounded in empirical profiling and rigorous machine-verifiable correctness.
-</details>
 
-<details>
-<summary><b>🇯🇵 日本語 (Japanese)</b></summary>
 <br>
 
+#### 🇯🇵 日本語 (Japanese)
 こんにちは。信頼性と高いパフォーマンスを追求するソフトウェアエンジニア、**カン・ミンウ（Minwoo Kang）**です。
 
 - **主な関心分野および技術領域**:
@@ -74,12 +65,10 @@ Hello! I am **Minwoo Kang**, a software engineer dedicated to building uncomprom
 - **エンジニアリング哲学**:
   - シンプルさこそが信頼性の源泉です。過度な抽象化を排し、本質的で堅牢な構造を設計します。
   - 徹底したプロファイリングと自動検証テストに基づき、課題の根本解決を図ります。
-</details>
 
-<details>
-<summary><b>🇨🇳 简体中文 (Simplified Chinese)</b></summary>
 <br>
 
+#### 🇨🇳 简体中文 (Simplified Chinese)
 你好！我是**姜旼宇（Minwoo Kang）**，专注于构建高可靠性与高性能架构的软件工程师。
 
 - **核心专业领域**:
@@ -89,12 +78,10 @@ Hello! I am **Minwoo Kang**, a software engineer dedicated to building uncomprom
 - **工程理念**:
   - 简洁即可靠。追求直观、稳固的技术架构，消除不必要的过度抽象。
   - 坚持以实证基准测试与严密的正确性验证作为技术决策的基石。
-</details>
 
-<details>
-<summary><b>🇪🇸 Español (Spanish)</b></summary>
 <br>
 
+#### 🇪🇸 Español (Spanish)
 ¡Hola! Soy **Minwoo Kang**, ingeniero de software enfocado en construir sistemas confiables, eficientes y de alto rendimiento.
 
 - **Áreas de Enfoque y Especialidad**:
@@ -104,12 +91,10 @@ Hello! I am **Minwoo Kang**, a software engineer dedicated to building uncomprom
 - **Filosofía de Ingeniería**:
   - La simplicidad es el requisito indispensable de la confiabilidad.
   - Las decisiones de diseño se fundamentan en mediciones empíricas y verificación formal rigurosa.
-</details>
 
-<details>
-<summary><b>🇫🇷 Français (French)</b></summary>
 <br>
 
+#### 🇫🇷 Français (French)
 Bonjour ! Je suis **Minwoo Kang**, ingénieur logiciel spécialisé dans la conception de systèmes distribués fiables et performants.
 
 - **Domaines de Compétence**:
@@ -119,12 +104,10 @@ Bonjour ! Je suis **Minwoo Kang**, ingénieur logiciel spécialisé dans la conc
 - **Philosophie d'Ingénierie**:
   - La simplicité est le fondement de la fiabilité. Priorité à la clarté et à la robustesse architecturale.
   - Validation continue par des tests mécaniques rigoureux et une analyse empirique des performances.
-</details>
 
-<details>
-<summary><b>🇩🇪 Deutsch (German)</b></summary>
 <br>
 
+#### 🇩🇪 Deutsch (German)
 Hallo! Ich bin **Minwoo Kang**, Software- und Systemarchitekt mit Fokus auf kompromisslose Zuverlässigkeit und Performance.
 
 - **Schwerpunkte & Fachgebiete**:
@@ -134,12 +117,10 @@ Hallo! Ich bin **Minwoo Kang**, Software- und Systemarchitekt mit Fokus auf komp
 - **Ingenieurphilosophie**:
   - Einfachheit ist die Voraussetzung für Verlässlichkeit. Vermeidung unnötiger Abstraktionen zugunsten robuster Strukturen.
   - Fundierte technische Entscheidungen basierend auf präzisen Profiling-Daten und vollständiger Testabdeckung.
-</details>
 
-<details>
-<summary><b>🇷🇺 Русский (Russian)</b></summary>
 <br>
 
+#### 🇷🇺 Русский (Russian)
 Здравствуйте! Я **Минву Кан (Minwoo Kang)** — инженер-программист и системный архитектор, создающий надежные и высокопроизводительные системы.
 
 - **Ключевые компетенции**:
@@ -149,12 +130,10 @@ Hallo! Ich bin **Minwoo Kang**, Software- und Systemarchitekt mit Fokus auf komp
 - **Инженерные принципы**:
   - Простота — необходимое условие надежности. Проверенная и чистая архитектура важнее избыточных абстракций.
   - Принятие решений на основе реальных профилировочных тестов и безупречной верификации.
-</details>
 
-<details>
-<summary><b>🇧🇷 Português (Portuguese)</b></summary>
 <br>
 
+#### 🇧🇷 Português (Portuguese)
 Olá! Sou **Minwoo Kang**, engenheiro de software dedicado ao desenvolvimento de sistemas distribuídos robustos e de alto desempenho.
 
 - **Principais Áreas de Foco**:
@@ -164,12 +143,10 @@ Olá! Sou **Minwoo Kang**, engenheiro de software dedicado ao desenvolvimento de
 - **Filosofia de Engenharia**:
   - A simplicidade é o pré-requisito da confiabilidade.
   - Decisões baseadas em métricas empíricas e validação rigorosa de código.
-</details>
 
-<details>
-<summary><b>🇸🇦 العربية (Arabic)</b></summary>
 <br>
 
+#### 🇸🇦 العربية (Arabic)
 مرحبًا! أنا **مينوو كانغ (Minwoo Kang)**، مهندس برمجيات متخصص في بناء أنظمة موزعة عالية الأداء والموثوقية.
 
 - **مجالات التركيز الرئيسية**:
@@ -179,10 +156,11 @@ Olá! Sou **Minwoo Kang**, engenheiro de software dedicado ao desenvolvimento de
 - **فلسفة العمل الهندسي**:
   - البساطة هي الشرط الأساسي للموثوقية؛ الهياكل الصلبة والواضحة تتفوق دائمًا على التعقيد الزائد.
   - تستند جميع القرارات الهندسية إلى القياس التجريبي والاختبار الآلي الدقيق.
+
 </details>
 
 ---
 
 <p align="center">
-  <sub>Crafted with care by Minwoo Kang · Licensed under MIT / Proprietary where applicable</sub>
+  <sub>Crafted with care by Minwoo Kang · Seoul, South Korea</sub>
 </p>
